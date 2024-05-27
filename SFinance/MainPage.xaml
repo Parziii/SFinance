@@ -33,6 +33,11 @@
 
             <Button x:Name="timePageButton" Text="Go to Time Page" Clicked="OnTimePageButtonClicked" />
 
+
+            <StackLayout>
+                <Button Text="Open Camera"
+                Clicked="OnOpenCameraButtonClicked"/>
+            </StackLayout>
         </VerticalStackLayout>
     </ScrollView>
 
