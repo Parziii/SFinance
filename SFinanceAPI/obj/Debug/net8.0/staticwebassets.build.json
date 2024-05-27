@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bKlgVZDxhFuZS95EXsvrFo7N5y6+5xCceSEpokO+a5w=",
+  "Hash": "okc0Sz1DaP49Dw6bjTn9UQP6RXdMIeZ4m5K5G8E9i7E=",
   "Source": "SFinanceAPI",
   "BasePath": "_content/SFinanceAPI",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "SFinanceAPI\\wwwroot",
       "Source": "SFinanceAPI",
-      "ContentRoot": "C:\\Users\\Jacob\\source\\repos\\Parziii\\SFinance\\SFinanceAPI\\wwwroot\\",
+      "ContentRoot": "E:\\temp\\SFinance\\SFinanceAPI\\wwwroot\\",
       "BasePath": "_content/SFinanceAPI",
       "Pattern": "**"
     }

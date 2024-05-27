@@ -3,6 +3,32 @@
   "WorkspaceRootPath": "E:\\temp\\SFinance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\timepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\timepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dominik.sencio\\AppData\\Roaming\\Microsoft\\UserSecrets\\865e0506-5d35-4e95-84c7-549df5a9a525\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -62,16 +88,8 @@
       "RelativeMoniker": "D:0:0:{D6FEE71E-B1A6-4C37-8D80-18B52DCE5A86}|SFinanceAPI\\SFinanceAPI.csproj|solutionrelative:sfinanceapi\\sfinanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\timepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\timepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,18 +98,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6FEE71E-B1A6-4C37-8D80-18B52DCE5A86}|SFinanceAPI\\SFinanceAPI.csproj|e:\\temp\\sfinance\\sfinanceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D6FEE71E-B1A6-4C37-8D80-18B52DCE5A86}|SFinanceAPI\\SFinanceAPI.csproj|solutionrelative:sfinanceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|solutionrelative:sfinance\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}|SFinance\\SFinance.csproj|e:\\temp\\sfinance\\sfinance\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,7 +111,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 122,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -153,79 +159,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "network_security_config.xml",
-              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
-              "RelativeDocumentMoniker": "SFinance\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
-              "ToolTip": "E:\\temp\\SFinance\\SFinance\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
-              "RelativeToolTip": "SFinance\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-05-24T22:07:10.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TimePage.xaml.cs",
-              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\TimePage.xaml.cs",
-              "RelativeDocumentMoniker": "SFinance\\TimePage.xaml.cs",
-              "ToolTip": "E:\\temp\\SFinance\\SFinance\\TimePage.xaml.cs",
-              "RelativeToolTip": "SFinance\\TimePage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCEAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:14:28.211Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ReceiptService.cs",
-              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Services\\ReceiptService.cs",
-              "RelativeDocumentMoniker": "SFinance\\Services\\ReceiptService.cs",
-              "ToolTip": "E:\\temp\\SFinance\\SFinance\\Services\\ReceiptService.cs",
-              "RelativeToolTip": "SFinance\\Services\\ReceiptService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:58:06.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HttpsClientHandlerService.cs",
-              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Services\\HttpsClientHandlerService.cs",
-              "RelativeDocumentMoniker": "SFinance\\Services\\HttpsClientHandlerService.cs",
-              "ToolTip": "E:\\temp\\SFinance\\SFinance\\Services\\HttpsClientHandlerService.cs",
-              "RelativeToolTip": "SFinance\\Services\\HttpsClientHandlerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T12:35:32.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinanceAPI\\Program.cs",
               "RelativeDocumentMoniker": "SFinanceAPI\\Program.cs",
               "ToolTip": "E:\\temp\\SFinance\\SFinanceAPI\\Program.cs",
               "RelativeToolTip": "SFinanceAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAEAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T19:09:20.728Z"
+              "WhenOpened": "2024-05-24T19:09:20.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "TimePage.xaml",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\TimePage.xaml",
               "RelativeDocumentMoniker": "SFinance\\TimePage.xaml",
               "ToolTip": "E:\\temp\\SFinance\\SFinance\\TimePage.xaml",
               "RelativeToolTip": "SFinance\\TimePage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-24T19:07:10.303Z"
+              "WhenOpened": "2024-05-24T19:07:10.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "SFinance\\MainPage.xaml.cs",
@@ -233,11 +193,12 @@
               "RelativeToolTip": "SFinance\\MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T19:04:06.377Z"
+              "WhenOpened": "2024-05-24T19:04:06.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "FileStorageService.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinanceAPI\\Services\\FileStorageService.cs",
               "RelativeDocumentMoniker": "SFinanceAPI\\Services\\FileStorageService.cs",
@@ -245,11 +206,12 @@
               "RelativeToolTip": "SFinanceAPI\\Services\\FileStorageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T14:52:14.889Z"
+              "WhenOpened": "2024-05-25T14:52:14.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "SFinanceContext.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinanceAPI\\DbContext\\SFinanceContext.cs",
               "RelativeDocumentMoniker": "SFinanceAPI\\DbContext\\SFinanceContext.cs",
@@ -257,23 +219,25 @@
               "RelativeToolTip": "SFinanceAPI\\DbContext\\SFinanceContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T18:36:25.799Z"
+              "WhenOpened": "2024-05-25T18:36:25.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Receipt.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinanceAPI\\DbContext\\Models\\Receipt.cs",
               "RelativeDocumentMoniker": "SFinanceAPI\\DbContext\\Models\\Receipt.cs",
               "ToolTip": "E:\\temp\\SFinance\\SFinanceAPI\\DbContext\\Models\\Receipt.cs",
               "RelativeToolTip": "SFinanceAPI\\DbContext\\Models\\Receipt.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T18:37:28.171Z"
+              "WhenOpened": "2024-05-25T18:37:28.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "SFinance.csproj",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\SFinance.csproj",
               "RelativeDocumentMoniker": "SFinance\\SFinance.csproj",
@@ -281,23 +245,25 @@
               "RelativeToolTip": "SFinance\\SFinance.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-25T09:29:21.807Z"
+              "WhenOpened": "2024-05-25T09:29:21.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ReceiptController.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinanceAPI\\Controllers\\ReceiptController.cs",
               "RelativeDocumentMoniker": "SFinanceAPI\\Controllers\\ReceiptController.cs",
               "ToolTip": "E:\\temp\\SFinance\\SFinanceAPI\\Controllers\\ReceiptController.cs",
               "RelativeToolTip": "SFinanceAPI\\Controllers\\ReceiptController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAowCwAAAAEAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAA5wCwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:53:00.167Z"
+              "WhenOpened": "2024-05-24T18:53:00.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ImageMetadata.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinanceAPI\\DbContext\\Models\\ImageMetadata.cs",
               "RelativeDocumentMoniker": "SFinanceAPI\\DbContext\\Models\\ImageMetadata.cs",
@@ -305,11 +271,12 @@
               "RelativeToolTip": "SFinanceAPI\\DbContext\\Models\\ImageMetadata.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T18:46:14.008Z"
+              "WhenOpened": "2024-05-25T18:46:14.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\dominik.sencio\\AppData\\Roaming\\Microsoft\\UserSecrets\\865e0506-5d35-4e95-84c7-549df5a9a525\\secrets.json",
               "ToolTip": "C:\\Users\\dominik.sencio\\AppData\\Roaming\\Microsoft\\UserSecrets\\865e0506-5d35-4e95-84c7-549df5a9a525\\secrets.json",
@@ -320,19 +287,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "SFinance\\Platforms\\Android\\AndroidManifest.xml",
               "ToolTip": "E:\\temp\\SFinance\\SFinance\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "SFinance\\Platforms\\Android\\AndroidManifest.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-05-25T11:48:57.453Z"
+              "WhenOpened": "2024-05-25T11:48:57.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\MauiProgram.cs",
               "RelativeDocumentMoniker": "SFinance\\MauiProgram.cs",
@@ -340,23 +308,25 @@
               "RelativeToolTip": "SFinance\\MauiProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:09:25.329Z"
+              "WhenOpened": "2024-05-24T18:09:25.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\MainPage.xaml",
               "RelativeDocumentMoniker": "SFinance\\MainPage.xaml",
               "ToolTip": "E:\\temp\\SFinance\\SFinance\\MainPage.xaml",
               "RelativeToolTip": "SFinance\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-24T18:15:38.432Z"
+              "WhenOpened": "2024-05-24T18:15:38.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "SFinance\\Platforms\\Android\\MainApplication.cs",
@@ -364,11 +334,112 @@
               "RelativeToolTip": "SFinance\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:11:11.85Z"
+              "WhenOpened": "2024-05-24T18:11:11.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAlwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-27T18:28:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SFinance\\App.xaml.cs",
+              "ToolTip": "E:\\temp\\SFinance\\SFinance\\App.xaml.cs",
+              "RelativeToolTip": "SFinance\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:12:31.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "SFinance\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "E:\\temp\\SFinance\\SFinance\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "SFinance\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T19:03:25.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAANUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-27T18:33:35.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HttpsClientHandlerService.cs",
+              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Services\\HttpsClientHandlerService.cs",
+              "RelativeDocumentMoniker": "SFinance\\Services\\HttpsClientHandlerService.cs",
+              "ToolTip": "E:\\temp\\SFinance\\SFinance\\Services\\HttpsClientHandlerService.cs",
+              "RelativeToolTip": "SFinance\\Services\\HttpsClientHandlerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:35:32.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "ReceiptService.cs",
+              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Services\\ReceiptService.cs",
+              "RelativeDocumentMoniker": "SFinance\\Services\\ReceiptService.cs",
+              "ToolTip": "E:\\temp\\SFinance\\SFinance\\Services\\ReceiptService.cs",
+              "RelativeToolTip": "SFinance\\Services\\ReceiptService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:58:06.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimePage.xaml.cs",
+              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\TimePage.xaml.cs",
+              "RelativeDocumentMoniker": "SFinance\\TimePage.xaml.cs",
+              "ToolTip": "E:\\temp\\SFinance\\SFinance\\TimePage.xaml.cs",
+              "RelativeToolTip": "SFinance\\TimePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:14:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "network_security_config.xml",
+              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "RelativeDocumentMoniker": "SFinance\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "ToolTip": "E:\\temp\\SFinance\\SFinance\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "RelativeToolTip": "SFinance\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-24T22:07:10.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinanceAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SFinanceAPI\\Properties\\launchSettings.json",
@@ -376,11 +447,12 @@
               "RelativeToolTip": "SFinanceAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-24T18:54:52.557Z"
+              "WhenOpened": "2024-05-24T18:54:52.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "SFinance\\Platforms\\Android\\MainActivity.cs",
@@ -388,35 +460,12 @@
               "RelativeToolTip": "SFinance\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:11:16.475Z"
+              "WhenOpened": "2024-05-24T18:11:16.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Styles.xaml",
-              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Resources\\Styles\\Styles.xaml",
-              "RelativeDocumentMoniker": "SFinance\\Resources\\Styles\\Styles.xaml",
-              "ToolTip": "E:\\temp\\SFinance\\SFinance\\Resources\\Styles\\Styles.xaml",
-              "RelativeToolTip": "SFinance\\Resources\\Styles\\Styles.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-24T19:03:25.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\App.xaml.cs",
-              "RelativeDocumentMoniker": "SFinance\\App.xaml.cs",
-              "ToolTip": "E:\\temp\\SFinance\\SFinance\\App.xaml.cs",
-              "RelativeToolTip": "SFinance\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:12:31.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinance\\Platforms\\iOS\\Program.cs",
               "RelativeDocumentMoniker": "SFinance\\Platforms\\iOS\\Program.cs",
@@ -424,11 +473,12 @@
               "RelativeToolTip": "SFinance\\Platforms\\iOS\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:11:23.174Z"
+              "WhenOpened": "2024-05-24T18:11:23.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "SFinanceAPI.csproj",
               "DocumentMoniker": "E:\\temp\\SFinance\\SFinanceAPI\\SFinanceAPI.csproj",
               "RelativeDocumentMoniker": "SFinanceAPI\\SFinanceAPI.csproj",
@@ -436,7 +486,8 @@
               "RelativeToolTip": "SFinanceAPI\\SFinanceAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-25T11:57:22.719Z"
+              "WhenOpened": "2024-05-25T11:57:22.719Z",
+              "EditorCaption": ""
             }
           ]
         }
