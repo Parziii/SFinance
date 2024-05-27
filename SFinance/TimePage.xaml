@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SFinance.TimePage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="dotnet_bot.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a race car number eight" />
+
+            <Label x:Name="currentTimeLabel" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+
+            <Button x:Name="checkReceiptStatusButton" Text="Check Receipt Status" Clicked="OnCheckReceiptStatusButtonClicked" />
+
+            <Label x:Name="currentRecepitLabel" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

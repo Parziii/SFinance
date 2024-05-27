@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFinance", "SFinance\SFinance.csproj", "{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFinanceAPI", "SFinanceAPI\SFinanceAPI.csproj", "{D6FEE71E-B1A6-4C37-8D80-18B52DCE5A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC32FB4E-B2A5-4C2D-84D8-46CF4D7ED402}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D6FEE71E-B1A6-4C37-8D80-18B52DCE5A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FEE71E-B1A6-4C37-8D80-18B52DCE5A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FEE71E-B1A6-4C37-8D80-18B52DCE5A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FEE71E-B1A6-4C37-8D80-18B52DCE5A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8BE8662-0D53-44CB-815F-4AB0B7BC255C}
+	EndGlobalSection
+EndGlobal

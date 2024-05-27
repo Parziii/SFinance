@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YlBbS2TLqp0TFd1Nujdn4NxN9+PybVT6JiNJScLivHE=",
+  "Source": "SFinanceAPI",
+  "BasePath": "_content/SFinanceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SFinanceAPI\\wwwroot",
+      "Source": "SFinanceAPI",
+      "ContentRoot": "E:\\Private Projects\\SFinance\\SFinanceAPI\\wwwroot\\",
+      "BasePath": "_content/SFinanceAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
