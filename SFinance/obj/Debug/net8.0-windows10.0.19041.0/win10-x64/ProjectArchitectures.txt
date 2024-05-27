@@ -1,1 +1,1 @@
-E:\Private Projects\SFinance\SFinance\SFinance.csproj;x64
+C:\Users\Jacob\source\repos\Parziii\SFinance\SFinance\SFinance.csproj;x64

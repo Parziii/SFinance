@@ -29,7 +29,14 @@ namespace SFinance
 		{
 			Navigation.PushAsync(new TimePage(_receiptService));
 		}
-
-	}
+        private async void OnOpenCameraButtonClicked(object sender, EventArgs e)
+        {
+            var photo = await MediaPicker.CapturePhotoAsync();
+            if (photo != null)
+            {
+                var stream = await photo.OpenReadAsync();
+            }
+        }
+    }
 
 }
