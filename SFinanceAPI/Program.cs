@@ -10,12 +10,14 @@ namespace SFinanceAPI
 		{
 			var builder = WebApplication.CreateBuilder(args);
 
+			var env = builder.Configuration;
+
 			// Add services to the container.
 
 			builder.Services.AddControllers();
 
 			builder.Services.AddDbContext<SFinanceContext>(options =>
-				options.UseSqlServer(builder.Configuration.GetConnectionString("data source=dsencio-dell\\MSSQLSERVER01;initial catalog=SFinanceDb;trusted_connection=true")));
+				options.UseSqlServer(env.GetConnectionString("SFinanceDbConnection")));
 
 
 			builder.Services.AddEndpointsApiExplorer();

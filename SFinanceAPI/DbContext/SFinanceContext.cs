@@ -13,7 +13,9 @@ namespace SFinanceAPI.DbContext
 		{
 		}
 
-		public DbSet<ReceiptV5Document> Receipts { get; set; }
+		public DbSet<Receipt> Receipts { get; set; }
+
+		public DbSet<ReceiptItem> ReceiptItems { get; set; }
 
 		public DbSet<ImageMetadata> ImageMetadata { get; set; }
 	}
