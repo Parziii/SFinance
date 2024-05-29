@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\temp\\SFinance\\SFinanceAPI\\SFinanceAPI.csproj": {}
+    "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinanceAPI\\SFinanceAPI.csproj": {}
   },
   "projects": {
-    "E:\\temp\\SFinance\\SFinanceAPI\\SFinanceAPI.csproj": {
+    "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinanceAPI\\SFinanceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\temp\\SFinance\\SFinanceAPI\\SFinanceAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinanceAPI\\SFinanceAPI.csproj",
         "projectName": "SFinanceAPI",
-        "projectPath": "E:\\temp\\SFinance\\SFinanceAPI\\SFinanceAPI.csproj",
-        "packagesPath": "C:\\Users\\dominik.sencio\\.nuget\\packages\\",
-        "outputPath": "E:\\temp\\SFinance\\SFinanceAPI\\obj\\",
+        "projectPath": "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinanceAPI\\SFinanceAPI.csproj",
+        "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinanceAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dominik.sencio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,11 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/TsQuP45UwwBPJT6QPE2sLMKVEIJwOpzimWeE5RcWYQ2DHeywPD/api": {},
-          "https://pkgs.dev.azure.com/alpicloud/IGE-XAO-rnd-shmplm/_packaging/CommonFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/alpicloud/IGE-XAO-rnd-shmplm/_packaging/PlmFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/alpicloud/IGE-XAO-rnd-shmplm/_packaging/ShmFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -85,6 +81,10 @@
             "Mindee": {
               "target": "Package",
               "version": "[3.14.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
