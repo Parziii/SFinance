@@ -1,6 +1,8 @@
 
 using Microsoft.EntityFrameworkCore;
 using SFinanceAPI.DbContext;
+using SFinanceAPI.Services;
+using SFinanceAPI.Services.Interfaces;
 
 namespace SFinanceAPI
 {
@@ -18,6 +20,9 @@ namespace SFinanceAPI
 
 			builder.Services.AddDbContext<SFinanceContext>(options =>
 				options.UseSqlServer(env.GetConnectionString("SFinanceDbConnection")));
+			
+			builder.Services.AddScoped<IFileStorageService, FileStorageService>();
+			builder.Services.AddScoped<IOpenAiService, OpenAiService>();
 
 
 			builder.Services.AddEndpointsApiExplorer();
