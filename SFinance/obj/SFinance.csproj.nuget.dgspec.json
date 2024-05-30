@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinance\\SFinance.csproj": {}
+    "E:\\temp\\SFinance\\SFinance\\SFinance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinance\\SFinance.csproj": {
+    "E:\\temp\\SFinance\\SFinance\\SFinance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinance\\SFinance.csproj",
+        "projectUniqueName": "E:\\temp\\SFinance\\SFinance\\SFinance.csproj",
         "projectName": "SFinance",
-        "projectPath": "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinance\\SFinance.csproj",
-        "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacob\\Source\\Repos\\Parziii\\SFinance2\\SFinance\\obj\\",
+        "projectPath": "E:\\temp\\SFinance\\SFinance\\SFinance.csproj",
+        "packagesPath": "C:\\Users\\dominik.sencio\\.nuget\\packages\\",
+        "outputPath": "E:\\temp\\SFinance\\SFinance\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dominik.sencio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -31,7 +31,11 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/TsQuP45UwwBPJT6QPE2sLMKVEIJwOpzimWeE5RcWYQ2DHeywPD/api": {},
+          "https://pkgs.dev.azure.com/alpicloud/IGE-XAO-rnd-shmplm/_packaging/CommonFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/alpicloud/IGE-XAO-rnd-shmplm/_packaging/PlmFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/alpicloud/IGE-XAO-rnd-shmplm/_packaging/ShmFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-android34.0": {

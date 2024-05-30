@@ -3,7 +3,7 @@
 public class ReceiptService
 {
 	public static string BaseAddress =
-		DeviceInfo.Platform == DevicePlatform.Android ? "https://192.168.0.60:5252" : "https://localhost:5252";
+		DeviceInfo.Platform == DevicePlatform.Android ? "https://192.168.0.38:5252" : "https://localhost:5252";
 
 	private readonly HttpClient _client;
 

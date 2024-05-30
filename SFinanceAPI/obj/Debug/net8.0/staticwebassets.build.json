@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "okc0Sz1DaP49Dw6bjTn9UQP6RXdMIeZ4m5K5G8E9i7E=",
+  "Hash": "BgZDc9CuumbYxnGHQfqGvAncSGDk/a1uX6RymehUi10=",
   "Source": "SFinanceAPI",
   "BasePath": "_content/SFinanceAPI",
   "Mode": "Default",
@@ -15,5 +15,44 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "E:\\temp\\SFinance\\SFinanceAPI\\wwwroot\\images\\ENxv1CoXUAA51Cd.jpg",
+      "SourceId": "SFinanceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\temp\\SFinance\\SFinanceAPI\\wwwroot\\",
+      "BasePath": "_content/SFinanceAPI",
+      "RelativePath": "images/ENxv1CoXUAA51Cd.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ENxv1CoXUAA51Cd.jpg"
+    },
+    {
+      "Identity": "E:\\temp\\SFinance\\SFinanceAPI\\wwwroot\\images\\pets-3715733_640.jpg",
+      "SourceId": "SFinanceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\temp\\SFinance\\SFinanceAPI\\wwwroot\\",
+      "BasePath": "_content/SFinanceAPI",
+      "RelativePath": "images/pets-3715733_640.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pets-3715733_640.jpg"
+    }
+  ]
 }

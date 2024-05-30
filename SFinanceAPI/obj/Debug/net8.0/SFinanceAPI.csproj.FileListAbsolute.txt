@@ -335,7 +335,6 @@ C:\Users\Jacob\source\repos\Parziii\SFinance\SFinanceAPI\bin\Debug\net8.0\zh-HK\
 C:\Users\Jacob\source\repos\Parziii\SFinance\SFinanceAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Maui.Controls.resources.dll
 C:\Users\Jacob\source\repos\Parziii\SFinance\SFinanceAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Maui.Controls.resources.dll
 C:\Users\Jacob\source\repos\Parziii\SFinance\SFinanceAPI\bin\Debug\net8.0\SFinanceAPI.staticwebassets.runtime.json
-E:\temp\SFinance\SFinanceAPI\bin\Debug\net8.0\appsettings.Development.json
 E:\temp\SFinance\SFinanceAPI\bin\Debug\net8.0\appsettings.json
 E:\temp\SFinance\SFinanceAPI\bin\Debug\net8.0\SFinanceAPI.staticwebassets.runtime.json
 E:\temp\SFinance\SFinanceAPI\bin\Debug\net8.0\SFinanceAPI.exe
@@ -524,3 +523,4 @@ E:\temp\SFinance\SFinanceAPI\obj\Debug\net8.0\refint\SFinanceAPI.dll
 E:\temp\SFinance\SFinanceAPI\obj\Debug\net8.0\SFinanceAPI.pdb
 E:\temp\SFinance\SFinanceAPI\obj\Debug\net8.0\SFinanceAPI.genruntimeconfig.cache
 E:\temp\SFinance\SFinanceAPI\obj\Debug\net8.0\ref\SFinanceAPI.dll
+E:\temp\SFinance\SFinanceAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
