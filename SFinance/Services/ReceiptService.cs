@@ -23,11 +23,19 @@ public class ReceiptService
 		try
 		{
 			var response = await _client.GetAsync(BaseAddress + "/Receipt");
-			return await response.Content.ReadAsStringAsync();
-		}
+			if(response.IsSuccessStatusCode)
+			{
+                return await response.Content.ReadAsStringAsync();
+            }
+			else
+			{
+				return $"Operation failed. Error {response.StatusCode}";
+			}
+        }
 		catch (Exception ex)
 		{
 			return ex.Message + ex.InnerException.Message;
 		}
 	}
 }
+	
