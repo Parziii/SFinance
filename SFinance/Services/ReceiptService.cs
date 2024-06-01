@@ -1,4 +1,6 @@
-﻿namespace SFinance.Services;
+﻿using System.Net.Http.Headers;
+
+namespace SFinance.Services;
 
 public class ReceiptService
 {
@@ -14,10 +16,38 @@ public class ReceiptService
 		var handler = new HttpsClientHandlerService();
 		_client = new HttpClient(handler.GetPlatformMessageHandler());
 #else
-            _client = new HttpClient();
+        _client = new HttpClient();
 #endif
 	}
+	public async Task<string> UploadReceiptImageAsync(Stream fileStream, string fileName)
+    {
+        try
+        {
+            var content = new MultipartFormDataContent();
+            var fileContent = new StreamContent(fileStream);
+            fileContent.Headers.ContentType = new MediaTypeHeaderValue("application/octet-stream");
+            content.Add(fileContent, "file", fileName);
 
+            var response = await _client.PostAsync(BaseAddress + "/Receipt/upload", content);
+            if (response.IsSuccessStatusCode)
+            {
+                return await response.Content.ReadAsStringAsync();
+            }
+            else
+            {
+                return $"Upload failed. Error: {response.StatusCode}";
+            }
+        }
+        catch (HttpRequestException httpEx)
+        {
+            return $"Network error: {httpEx.Message}";
+        }
+        catch (Exception ex)
+        {
+            return $"Unexpected error: {ex.Message}";
+        }
+    }
+	
 	public async Task<string> GetReceiptStatusAsync()
 	{
 		try

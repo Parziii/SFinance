@@ -33,11 +33,24 @@ namespace SFinanceAPI.Controllers
 			if (file == null || file.Length == 0)
 				return BadRequest("No file uploaded.");
 
+			try
+			{
 			var imageMetadata = await _fileStorageService.StoreFileAsync(file);
+			if (imageMetadata == null)
+				return BadRequest("Failed to store file.");
 
 			var receipt = await _openAiService.ProcessReceiptAsync(file);
+			if (receipt == null)
+				return NotFound("Failed to process receipt.");
 
 			return Ok(receipt?.Id);
+
+			}
+			catch (Exception ex)
+			{
+				throw new Exception(ex.Message);
+			}
+
 		}
 
 
